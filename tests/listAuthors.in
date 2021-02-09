@@ -1,0 +1,11 @@
+LIST AUTHORS
+list authors
+ADD BOOK books.csv 111111
+LIST AUTHORS
+add book books.csv 111118
+list authors
+add book books.csv 111119
+LIST AUTHORS
+ADD COLLECTION books.csv
+LIST AUTHORS
+EXIT

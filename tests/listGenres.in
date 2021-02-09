@@ -1,0 +1,11 @@
+LIST GENRES
+list genres
+ADD BOOK books.csv 111111
+LIST GENRES
+add book books.csv 111118
+list genres
+add book books.csv 111119
+LIST GENRES
+ADD COLLECTION books.csv
+LIST GENRES
+EXIT

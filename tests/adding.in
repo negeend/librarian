@@ -1,0 +1,12 @@
+ADD MEMBER James Bob
+add member Jimmothy Smith Frank Johnathan
+aDd mEmBeR Gary
+MEMBER 100000
+MEMBER 100001
+MEMBER 100002
+ADD BOOK nonexistent.csv 111111
+add book books.csv 123456
+add book empty.csv 111111
+ADD BOOK books.csv 111111
+ADD BOOK books.csv 111111
+exit

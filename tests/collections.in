@@ -1,0 +1,16 @@
+SAVE COLLECTION file.csv
+ADD COLLECTION nonexistant.csv
+aDd cOlLeCtIOn nonexistant.csv
+save collection file.csv
+add collection empty.csv
+ADD COLLECTION empty.csv
+ADD COLLECTION books.csv
+add collection books.csv
+add collection books2.csv
+add collection books3.csv
+LIST ALL
+list all long
+NUMBER COPIES
+save collection file.csv
+add collection file.csv
+exit

@@ -1,0 +1,19 @@
+LIST ALL
+LIST ALL LONG
+list all
+list all long
+List All lOnG
+ADD COLLECTION books.csv
+LIST ALL
+list all
+LIST ALL LONG
+list all long
+ADD MEMBER John Smith
+Add member Emily Brown
+RENT 100000 111111
+RENT 100000 111124
+RENT 100000 111119
+rent 100001 111119
+rent 100001 111117
+LIST ALL LONG
+EXIT

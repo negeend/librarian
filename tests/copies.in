@@ -1,0 +1,11 @@
+NUMBER COPIES
+number copies
+ADD BOOK books.csv 111111
+NUMBER COPIES
+number copies
+ADD COLLECTION books.csv
+NUMBER COPIES
+ADD COLLECTION books.csv
+ADD COLLECTION books2.csv
+number copies
+EXIT
